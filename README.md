@@ -9,7 +9,9 @@ test.py: Unit tests for the sample function using the unittest framework.
 # How to Run Example Application
 To run the example application, execute the following command:
 
-```python sampler.py```
+```
+python sampler.py
+```
 
 This will execute the example application, displaying the input measurements and the corresponding sampled measurements.
 
